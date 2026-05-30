@@ -1,0 +1,12 @@
+{
+  "name": "binance-mcp-cloud",
+    "version": "1.0.0",
+      "description": "Binance MCP Server on Railway",
+        "main": "server.js",
+          "scripts": {
+              "start": "node server.js"
+                },
+                  "dependencies": {
+                      "binance-mcp-server": "*"
+                        }
+                        }
